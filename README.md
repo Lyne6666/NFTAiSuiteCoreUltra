@@ -1,2 +1,1 @@
-# NFTAiSuiteCoreUltra
-Advanced NFTAiSuiteCoreUltra project
+.
